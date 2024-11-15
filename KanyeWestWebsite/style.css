@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+       @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Moul&display=swap');
+        body{
+            background-color: #b3e6e2;
+        }
+        article {
+            font-family:'Bebas neue','Courier New', Courier, monospace;
+        }
+        h1, h3, h2 {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+         #biografi {
+            background-color: #a1c9c7;
+        }
+        #rubrik {
+            color: hsl(205, 98%, 19%);
+            font-family: "Moul";
+        
+            border-style: ridge;
+            border-color: #627877;
+            margin-bottom: 15px;
+            padding-left: 4px;
+            padding-right: 4px;
+        }
+        .lol{
+            
+        }
+        p::first-letter{
+            font-weight:bolder;
+            font-size:xx-large;
+        }
+        a:hover {
+            background-color: rgb(4, 24, 89);
+            font-size: 18px;
+            color: mintcream;
+        }
+        section {
+            border-style: ridge;
+            border-color: #627877;
+            margin-bottom: 15px;
+            padding-left: 4px;
+            padding-right: 4px;
+        }
+        #ye3 {
+            
+        }
